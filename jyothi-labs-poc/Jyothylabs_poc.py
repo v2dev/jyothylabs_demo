@@ -21,7 +21,7 @@ EMAIL_SUBJECT = "Webpage Change Detected"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 465
 SMTP_USER = "harshapaul@gmail.com"
-SMTP_PASS = "Candy@15"
+SMTP_PASS = ""
 
 # ---- STEP 1: Fetch current content ----
 def fetch_page():
